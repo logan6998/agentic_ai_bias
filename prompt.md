@@ -11,3 +11,5 @@ We are considering education, experience, and skills (both soft and technical) a
 Give me your thoughts on this first step and how we might improve it. 
 
 Ultimately, we will generate multiple candidate resumes and test them against this job description. 
+
+Report results as a markdown table.
